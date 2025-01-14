@@ -1396,12 +1396,12 @@ body {
     font-size: 16px;
     line-height: 23px;
     letter-spacing: 0.05em;
-    color: #B7AB94;
+    color: #000000;
     transition: .3s;
 }
 
 .footer_info .links a:hover {
-    color: #A59473;
+    color: #000000;
 }
 
 .footer_info .links a:nth-child(1)::after {
